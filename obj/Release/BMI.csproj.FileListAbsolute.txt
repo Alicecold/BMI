@@ -1,0 +1,14 @@
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Release\BMI.exe.config
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Release\BMI.exe
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Release\BMI.pdb
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\App.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\GeneratedInternalTypeHelper.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI_MarkupCompile.cache
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI_MarkupCompile.lref
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI.g.resources
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI.Properties.Resources.resources
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI.csproj.GenerateResource.Cache
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI.exe
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\BMI.pdb
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\View\MainWindow.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Release\View\MainWindow.baml

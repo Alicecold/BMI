@@ -1,0 +1,18 @@
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Debug\BMI.exe.config
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Debug\BMI.exe
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\bin\Debug\BMI.pdb
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\App.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI_MarkupCompile.cache
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.g.resources
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.exe
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI.pdb
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\BMI_MarkupCompile.lref
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\View\MainWindow.g.cs
+e:\users\alice\documents\visual studio 2012\Projects\BMI\BMI\obj\Debug\View\MainWindow.baml
+G:\Dropbox\Public\BMI\BMI\BMI\bin\Debug\BMI.exe.config
+G:\Dropbox\Public\BMI\BMI\BMI\obj\Debug\BMI.exe
+G:\Dropbox\Public\BMI\BMI\BMI\obj\Debug\BMI.pdb
